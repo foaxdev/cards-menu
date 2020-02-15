@@ -1,5 +1,0 @@
-const getCardsMenu = () => {
-    return({
-
-    });
-};

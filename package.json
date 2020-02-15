@@ -20,6 +20,8 @@
   },
   "scripts": {
     "build": "gulp build",
-    "start": "gulp start"
+    "start": "gulp start",
+    "build w": "webpack --mode production",
+    "start w": "webpack-dev-server --open"
   }
 }

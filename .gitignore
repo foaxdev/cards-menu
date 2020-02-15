@@ -9,3 +9,5 @@ Thumbs.db
 node_modules/
 
 public/
+public/screens_test.js
+public/screens_test.js.map
