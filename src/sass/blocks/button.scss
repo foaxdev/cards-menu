@@ -1,0 +1,23 @@
+.button {
+  font-size: 30px;
+  line-height: 30px;
+  color: $main-green;
+  text-transform: lowercase;
+  text-align: left;
+
+  background-color: $white;
+  border: 1px solid $grey;
+  box-shadow: 0 2px 0 $grey;
+  border-radius: 12px;
+
+  &--return-card {
+    margin: 40px 0 40px 40px;
+    max-width: 220px;
+    padding: 10px 20px 15px 85px;
+
+    background-image: url("../img/return-card.svg");
+    background-repeat: no-repeat;
+    background-size: 46px 36px;
+    background-position: 20px;
+  }
+}
